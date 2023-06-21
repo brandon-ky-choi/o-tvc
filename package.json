@@ -1,0 +1,15 @@
+{
+  "name": "optus-tvc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "example": "node index.mjs",
+    "test": "mocha --watch --spec src/**/*.test.*"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^10.0.1",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
